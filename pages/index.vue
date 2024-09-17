@@ -177,16 +177,12 @@ onMounted(() => {
 }
 
 .product-card {
-
-
     text-align: center;
-
     height: 450px;
     padding: 24px;
     gap: 32px;
     border-radius: 12px;
     border: 1px;
-    opacity: 0px;
     border: 1px solid rgba(26, 26, 26, 0.1);
 
     .description {

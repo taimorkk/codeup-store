@@ -139,7 +139,6 @@ defineExpose({
         gap: 10px;
         border-radius: 8px;
         border: 1px;
-        opacity: 0px;
         border: 1px solid rgba(26, 26, 26, 0.1);
         background: rgba(255, 255, 255, 1);
 
@@ -168,7 +167,6 @@ defineExpose({
     padding: 10px;
     gap: 10px;
     border-radius: 8px;
-    opacity: 0px;
     background:
         linear-gradient(0deg, #462DDF, #462DDF);
 
